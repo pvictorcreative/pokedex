@@ -47,7 +47,7 @@ body {
 }
 
 .card-front {
-  background-image: url("assets/img/card-back.jpg");
+  background-image: url("../img/card-back.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
